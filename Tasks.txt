@@ -1,0 +1,13 @@
+﻿*git add - многофункциональная команда, она используется для добавления под версионный контроль новых файлов, для индексации изменений, а также для других целей
+git init-Эта команда создает пустой репозиторий Git - в основном каталог .git с подкаталогами для объектов, refs / headers, refs / tags и файлами шаблонов
+git commit-Он сохраняет текущее содержимое индекса в новом коммите вместе с лог-сообщением от пользователя, описывающим изменения
+git push- означает мерж локальных изменений в удаленный репозиторий
+
+*Microsoft Windows [Version 10.0.17134.523]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\kusur>cd C:\Users\kusur\Desktop\tekwill\homework\Lesson 3
+
+C:\Users\kusur\Desktop\tekwill\homework\Lesson 3>copy Tasks.txt C:\Users\kusur\Desktop\tekwill
+        1 file(s) copied.
+*
